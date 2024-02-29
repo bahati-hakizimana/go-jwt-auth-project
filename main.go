@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"JWT-project/routes"
+	routes "JWT-project/routes"
 )
 
 func main() {
